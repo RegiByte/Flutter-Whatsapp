@@ -17,12 +17,17 @@ samples, guidance on mobile development, and a full API reference.
 
 ## DEMO:
 
-<div width="50%">Home
-
-![Home Screen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo2.jpeg)
-</div>
-<span width="50%" >
-Chat Scren
-
-![ChatScreen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo1.jpeg)
-</div>
+<table>
+<thead>
+<tr>
+<td>Home Screen</td>
+<td>Chat Screen</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>![Home Screen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo2.jpeg)</td>
+<td>![ChatScreen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo1.jpeg)</td>
+</tr>
+</tbody>
+</table>
