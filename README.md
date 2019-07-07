@@ -17,14 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## DEMO:
 
-<div style="display: flex">
-<div>Home
+<div style="display: inline-block: max-width: 50%;">Home
 
 ![Home Screen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo2.jpeg)
 </div>
-<div>
+<div style="display: inline-block: max-width: 50%;">
 Chat Scren
 
 ![ChatScreen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo1.jpeg)
-</div>
 </div>
