@@ -17,5 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## DEMO:
 
+Home
+
 ![Home Screen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo2.jpeg)
+
+Chat Scren
+
 ![ChatScreen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo1.jpeg)
