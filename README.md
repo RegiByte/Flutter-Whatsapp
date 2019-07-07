@@ -26,8 +26,8 @@ samples, guidance on mobile development, and a full API reference.
 </thead>
 <tbody>
 <tr>
-<td>![Home Screen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo2.jpeg)</td>
-<td>![ChatScreen](https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo1.jpeg)</td>
+<td><img src="https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo2.jpeg"/></td>
+<td><img src="https://raw.githubusercontent.com/BRKsReginaldo/Flutter-Whatsapp/master/gitassets/photo1.jpeg"/></td>
 </tr>
 </tbody>
 </table>
